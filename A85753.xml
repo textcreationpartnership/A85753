@@ -1,0 +1,340 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Ground voice, or some discoveries offered to the view, with certain queries propounded to the consideration of the whole army in England, Scotland, and Ireland, officers and common-souldiers, horse and foot. VVith certain queries to the Anabaptists in particular that bear any office, either in court or army, under the present self-created politick power.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85753</idno>
+            <idno type="STC">Wing G2133</idno>
+            <idno type="STC">Thomason E860_1</idno>
+            <idno type="STC">ESTC R206636</idno>
+            <idno type="EEBO-CITATION">99865755</idno>
+            <idno type="PROQUEST">99865755</idno>
+            <idno type="VID">118006</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85753)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118006)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 130:E860[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Ground voice, or some discoveries offered to the view, with certain queries propounded to the consideration of the whole army in England, Scotland, and Ireland, officers and common-souldiers, horse and foot. VVith certain queries to the Anabaptists in particular that bear any office, either in court or army, under the present self-created politick power.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1655]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "Nouemb 16: 1655".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Anabaptists --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title">
+            <pb n="1" facs="tcp:118006:1" rendition="simple:additions"/>
+            <p>A <hi>Grounded Voice,</hi> or ſome <hi>Diſcoveries</hi> offered to the view, with certain <hi>Queries</hi> propounded to the Conſideration of the whole <hi>Army</hi> in <hi>England, Scotland,</hi> and <hi>Ireland,</hi> Officers and Common-Souldiers, Horſe and Foot.</p>
+            <p>VVITH <hi>Certain Queries to the Anabaptiſts in particular that Bear any Office, either in</hi> Court <hi>or</hi> Army, <hi>under the preſent</hi> ſelf-created Politick Power.</p>
+            <q>And thou profane wicked Prince of Iſrael, whoſe day is come, when iniquity ſhall have a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> end. Thus ſaith the Lord God, remove the Diadem and take of the Crown: This ſhall not be the ſame: exalt him that is low, and abaſe him that is high. I will over<g ref="char:EOLhyphen"/>turn, overturn, overturn it, and it ſhall be no more.</q>
+         </div>
+         <div type="author_to_Cromwells_army">
+            <head>To the <hi>Decreaſing</hi> Army of <hi>O. Cromwell.</hi>
+            </head>
+            <p>SIR's! what are your ayms and intentions? VVhat are your perſwaſions? Are they, we ſhall live for ever inſulting and domineering over our Brethren? Think ye, that the day of your viſitation ſhall never come? Shall ye for ever plunder and none reſiſt! Shall ye alwayes hurry to Priſon and none cry out <hi>violence and ſpoile:</hi> VVill ye, who once was vali<g ref="char:EOLhyphen"/>ant againſt tyrants, now (coward-like) uphold and maintain tyrants: If you will ſo, open your deaf-ears and hear what the Angel ſaith, you ſhall drink of the wine of the wrath of God, which is poured out without mixture into the cup of his indignation, <hi>&amp;c. Rev.</hi> 14.10. The night is far ſpent (haſt, haſt!) and the day's at hand! the ſhadows begin's to fly away, the mornings ready to break forth; do not you ſee how Antichriſt hath and is, and more ſhall be put to it to keep himſelf on the Stage, and tis becauſe his night of ignorant darkneſſe is al<g ref="char:EOLhyphen"/>moſt gone, wherein he wrought becauſe his works are evill, and will not abide the light of the Sun? Pray conſider what you doe! ſee ye not that the truth (which is ſtrongeſt of all) begins afreſh to juſtle Antichriſt and to check him, and (ere long) will juſtle him into the <hi>Pit of Deſtruction?</hi> Amen.</p>
+            <pb n="2" facs="tcp:118006:2"/>
+            <p>Friends, (Oh that you were the friends of Zion then would you rejoyce!) what ſee you thats beautifull in your Maſters, that you are ſo loath (or rather fearfull) to change them? Can you (without an hard and ſeared conſcience) maintain a man, who by <hi>cheating, lying, perjury, plotting, diſſimulation and hipocriſie,</hi> have gotten himſelf ſeated into the Sadle of wickedneſſe? Surely if you do, you are as much guilty as himſelf, and ſo will incur the ſame puniſhment with him and the reſt of his partakers.</p>
+            <p>Therefore remember that day which is at the doore, the day of the Lords viſitation, wherein you (as inhabiters of the old heavens and earth with your Kings, mighty-men, chief-Captains, <hi>&amp;c.</hi>) will be forced to run to the rocks (or ſtrength) of the mountains (Mo<g ref="char:EOLhyphen"/>narch's and Monarchies) crying, <hi>fall on us, fall on us! and hide us from the face of him that ſits on the throne:</hi> It was wont to be your Maſters that ſate on the Throne; but now the caſe is altered, he (the Lamb) ſits on the Throne, oh <hi>hide us from his face; for the great day of his wrath is come, and who ſhall be able to ſtand? Rev.</hi> 6.16, 17. What will become of your <hi>Protector</hi> in this day? where will be his ſtrength? he's become helpleſſe, and all his and your cryings will be then in vain: For verily if you continue Chriſts enemies till that day, it may be ſaid of you as twas ſaid of <hi>Korah, Dathan, and Abiram, and thereby Moſes, if theſe men dye the common-death of all men; or if they be viſited after the viſitation of all men; then the Lord hath not ſent me. Numb.</hi> 16.29.</p>
+            <p>Theſe Queries was writ on purpoſe for the good and benefit of your ſouls and bodies, to ſee if you would yet <hi>hearken to the voice of God and live;</hi> and therefore we humbly be<g ref="char:EOLhyphen"/>ſeech you for Chriſt Ieſus his ſake, for <hi>Zions</hi> ſake, and for your ſouls ſake, to hearken and give ear whilſt the <hi>voice of pitty cryes, come freely and buy without mony or priſe, even wine and milk, the waters of life, Iſa.</hi> 55.1. for this voice will not cry long in our ſtreets: there is another Diſpenſation at the doore, and the Doctrine is, <hi>Fear God and give glory to him, for the houre of his judgment is come, Rev.</hi> 14.7. Chriſt will no more beſeech his enemies, but if they will repent ſo; if not, the <hi>houre of his judgment is com<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and every one that is found (in oppoſition to him) <hi>ſhall be thruſt thorow, and every one that is joyned to them, ſhall fall by the ſword,</hi> Iſa. 13.15. if you'l not repent, you ſhall be cut in pieces: Alas, alas! what a dreadfull ſlaughter will Chriſt make among his enemies, <hi>All his garments ſhall be dyed in blood; his vertue is dipt in blood:</hi> Iſ. 63.1, 2, 3. Rev. 19.13. <hi>He will tread his enemies in his an<g ref="char:EOLhyphen"/>ger, and trample them in his fury: A battell will the Lord fight against his enemies with burning and fuell of fire:</hi> Iſa. 9.5. Therefore come in, before this day come, for the Stone is almoſt ready to riſe, it begins to ſtruggle, and yet a little while, and it fals on the Feet of the Image, and breaks them to pieces; ſurely all that is Antichriſtian ſhall then be <hi>viſited of the Lord of hoſts with thunder and with earth-quake, and great noiſe, with ſtorm and tem<g ref="char:EOLhyphen"/>peſt, and the flame of devouring fire:</hi> Dreadfull judgments indeed! Oh that we could but expreſſe unto you the nearineſſe of the Time, and the dreadfulneſſe of the judgments, and the unheard of execution then to be done upon Chriſts enemies.</p>
+            <closer>
+               <salute>Farewell.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:118006:2"/>
+            <head>
+               <hi>Grounds</hi> and <hi>Queries</hi> to the <hi>Army,</hi> &amp;c.</head>
+            <milestone type="tcpmilestone" unit="Ground" n="1"/>
+            <p>IN the laſt (and overturning) dayes when the <hi>Kings and Rulers</hi> (thoſe <hi>Branches</hi> ſprung from the <hi>old Draggon</hi> their root) of the old Earth ſhall hear the <hi>Declaration</hi> and <hi>Procla<g ref="char:EOLhyphen"/>mation</hi> of the <hi>Decree of the Lord of hoſts,</hi> to ſet <hi>Jeſus of Nazareth hill, King upon the hill of Zion, as Judge, Ruler and Law-giver,</hi> not onely of his <hi>Church,</hi> but in and over the whole Earth, therein to <hi>raign and rule by his laws,</hi> And to break and daſh in pieces (by and in his Saints, that Stone which is not in the hands of any Power of this earth whatſoever. <hi>Dan.</hi> 2.34.45.) the whole <hi>Roman Monarchy or Fourth Beaſt</hi> as now divided, <hi>bearing rule over the whole Earth:</hi> Either by <hi>Heatheniſh Emperors and Kings,</hi> or by <hi>refined Rulers;</hi> taking in the whol <hi>Kingdome of Antichriſt,</hi> the laws of his kingdom, the makers of his laws, the pleaders of his laws, and the executors of them high and low, under what <hi>name</hi> or <hi>title</hi> ſoever: ſo as to leave no place for them, except the <hi>lake of fire and brimſtone;</hi> the portion of the <hi>Dragon, Beaſt,</hi> and <hi>Falſe prophet,</hi> with their partakers and dependants: when (we ſay) the <hi>Beaſts, Kings and Ru<g ref="char:EOLhyphen"/>lers</hi> ſhall hear the <hi>Proclamation</hi> of this Decree; Then ſhall they <hi>ſet themſelves</hi> with all the <hi>might and power</hi> the <hi>Dragon</hi> hath given them, <hi>and take Councel,</hi> politick, cunning, and craf<g ref="char:EOLhyphen"/>ty-councel (it being the laſt <hi>game</hi> they have to play) <hi>againſt the Lord and his anointed;</hi> whom this <hi>decree proclaims King: David's</hi> now <hi>anointed,</hi> that's the reaſon <hi>Saul</hi> perſues him ſo hotly; crying, <hi>Let us! Let us!</hi> they'r all for <hi>acting</hi> their curſed deſign of <hi>breaking</hi> the <hi>bands of Chriſts Kingdome, and caſting away</hi> (as a thing deſtructive) the <hi>cords or laws thereof;</hi> all this rage and fury is but to <hi>imagine a vain thing.</hi> Pſ. 2.1, 2, 3, 6, 7, 8, 9. This alſo is the <hi>thoughts</hi> or vain imaginations of the <hi>little horn:</hi> fain would he change and put far off the <hi>times</hi> of this kingdom; theſe bands <hi>and change the laws or cords</hi> thereof, <hi>Dan.</hi> 7.2 5. He thinks alſo to change the time and laws of thoſe three Nations under his Dominion. And therefore,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queries </seg>1</label> Whether or no, your <hi>Rulers and Heads</hi> (who keep dark and hidden <hi>councels of wickednes</hi>) be not thoſe very <hi>Rulers</hi> (diſtinguiſhed from the Kings of the earth by that <hi>title</hi>) that in this day take <hi>cunning and crafty councell point black</hi> againſt the <hi>Lords anointed, his bands and cords</hi> againſt the very kingdom and laws of Chriſt Jeſus, in and over the Nations; endeavouring thereby to ſet up, and firmly eſtabliſh the <hi>kingdome and laws</hi> of <hi>Antichriſt</hi> in all their <hi>uſurped dominions,</hi> in oppoſition to the Lords?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queries </seg>2</label> 2. Whether <hi>the Lord that ſitteth in the heaven doth not laugh at them</hi> for ſuch folly and madnes, as for a few worms, to <hi>ſet themſelves</hi> againſt the <hi>great and mighty God? Hath not the Lord them in deriſion? doth not the Lord ſpeak to them in his wrath?</hi> By his judgments that meets the deſigns in their very face, doth not the late <hi>judgments of deſtruction in Hi<g ref="char:EOLhyphen"/>ſpaniola, and thereabouts ſpeak to them in wrath?</hi> Is nor the <hi>multitude,</hi> forſaken that flees before a <hi>ſmal company?</hi> doth not the Lord <hi>vex</hi> and torment them <hi>in his ſore diſpleaſure?</hi> if ſo.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queries </seg>3</label> Whether or no it be not dangerous, yea and very dangerous for you to continue any obedience to them; to execute any of their laws, or to receive any <hi>hire</hi> or <hi>wages</hi> from them, becauſe 'tis the prize of blood; leaſt thereby you be found under this notion of <hi>a people imagining a vain thing</hi> (as to think the kingdom of <hi>Oliver Cromwel</hi> can ſtand againſt Chriſts) and thereby become guilty of <hi>High treaſon</hi> againſt the <hi>great king of kings;</hi> and ſo (at his ap<g ref="char:EOLhyphen"/>pearance) be daſhed to <hi>pieces</hi> (with your <hi>Rulers</hi>) like a <hi>potters veſſel by him,</hi> or in the mean time be cut off and deſtroyed as your fellows in the late <hi>expedition?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queries </seg>4</label> Whether or no your <hi>head Ruler,</hi> with his <hi>government<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, that ſtands up</hi> over the three <hi>Kingdomes pluckt up by him,</hi> be not that ſame <hi>little horn,</hi> that ariſes <hi>after and among the ten horns</hi> or <hi>kingdoms,</hi> ſubject to <hi>Antichriſt,</hi> who is to <hi>reign</hi> for <hi>three years and a half,</hi> and there<g ref="char:EOLhyphen"/>in to perſecute the Saints; ſeeing he (above all his fellows, with more eagerneſſe, greater ſtratagems, and ſubtiller devices then any of his fellow horns) indeavours to <hi>change the times, and laws of Chriſts kingdom, now ready to break forth in power and great glory,</hi> Dan. 7.8.11.20, 21.24, 25. and not only ſo, but hath <hi>changed the times</hi> of theſe <hi>Nations</hi> deliverance, an<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> made them the <hi>
+                  <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>imes</hi> of his exaltation; and hath made null and void thoſe laws, which p<g ref="char:EOLunhyphen"/>vided for the ſafety and welfare of <hi>England, Scotland,</hi> and <hi>Ireland.</hi>
+            </p>
+            <pb n="4" facs="tcp:118006:3"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ground. </seg>2</label> When the time of <hi>Babylons deſtruction</hi> is ready to come upon her from the Lord, the Lord will cauſe his people, thoſe that ſhall not <hi>partake of her plagues</hi> (which are ſo dreadfull to make a moſt full, abſolute, and totall <hi>ſeparation</hi> from her, by <hi>coming out of her;</hi> by <hi>ſeparating</hi> from all <hi>Powers, Perſons</hi> and things, that are any ways <hi>Babylon ſh, unclean,</hi> or <hi>Antichriſtian;</hi> Gods people muſt <hi>come out of, and depart from Babylon Civill,</hi> and <hi>Babylon-Eccleſiaſtical,</hi> Rev. 14.14. Jer. 51.6.45. c. 50.8. Iſa. 52.11. 2 Cor. 6.17.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>1</label> 
+               <hi>Que.</hi> Whether or no you are not in <hi>Babylon,</hi> yea deeply in <hi>Babylon?</hi> in the very midſt of her; liſted under her <hi>banner,</hi> in oppoſition to thoſe liſted under the <hi>Banner of Jeſus Chriſt the Lamb,</hi> whileſt you daily obey the <hi>commands of her Powers,</hi> daily (almoſt) going about <hi>robbing and diſpoiling your brethren of their goods and eſtates,</hi> becauſe they will not pay <hi>taxes,</hi> nor con<g ref="char:EOLhyphen"/>tribute to the upholding of the <hi>kingdom of Antichriſt;</hi> pu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ting the yoak of <hi>bondage</hi> upon the <hi>neck</hi> of <hi>a free people,</hi> incouraging <hi>Prieſts and Lawyers</hi> to preſſe the <hi>ſouls and bodies of the Lords people,</hi> whilſt you are ready at hand to uphold them in thoſe cruelties? If ſo,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Que. </seg>2</label> Whether or no you do not hereby endanger your very <hi>ſouls;</hi> ſeeing to depart out of <hi>Ba<g ref="char:EOLhyphen"/>bylon</hi> is to ſave the <hi>ſoul;</hi> then whether or not to ſtay in her, be not to <hi>deſtroy the ſoul, Jer.</hi> 51 6.45. <hi>And if ſo?</hi> 3. Whether or no it ſhould not now be your <hi>chiefeſt, greateſt, and only care,</hi> to make a <hi>ſpeedy</hi> and an <hi>effectuall ſeparation</hi> from and out of her, in <hi>obedience</hi> to that <hi>voice</hi> of the Lord, which <hi>ſounds</hi> ſo loud in your ears now, by reaſon of the <hi>deſtruction com<g ref="char:EOLhyphen"/>ming forth;</hi> and ſpeedily come forth of, and leave your curſed imployments of acting for <hi>mony in the Army,</hi> and ſo as faſt as may be <hi>ſeparate</hi> from her in all other points? Is it better (O ſouldiers! to keep the <hi>mark</hi> of this <hi>Beaſt in your foreheads</hi> openly, then to liſt your ſelves under the <hi>Banner of Jeſus Chriſt?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ground </seg>3</label> When the Lord hath drawn his people out of <hi>Babylon,</hi> its not for nought, but it is that they may act for him and his kingdom againſt his enemies, and the <hi>kingdome and power of the Beaſt:</hi> they muſt then <hi>wait on the Lord in the way of his judgments, Iſa.</hi> 26.<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. as ſoon as the voice <hi>come out</hi> is accompliſhed, out comes the <hi>command, reward her even as ſhe rewarded you, and double unto her double according to her works: in the cup which ſhe hath filled, fill to her double, &amp;c. Rev.</hi> 18.6. So that as ſoon as the <hi>Sts.</hi> are <hi>come out of Babylon,</hi> they muſt begin to <hi>deſtroy</hi> her; then her <hi>plagues of death, murmuring and famine comes upon her:</hi> and ſhe ſhall be <hi>utterly burnt with fire.</hi> The <hi>everlaſting goſpel is preached,</hi> and the ſword follows, and down gos <hi>Babylon, Rev.</hi> 14 7, 8.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>1</label> Whether or no when once theſe <hi>judgments</hi> begins (if till then you continue your ſtandings in <hi>Babylon</hi>) there will be any time of <hi>repentance</hi> either to you, or any in your dange<g ref="char:EOLhyphen"/>rous condition, ſeeing you neglect to <hi>kiſs the ſon before his anger is kindled? If ſo.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>2</label> Whether or no you ought not with all readineſs of mind and humblenes of <hi>ſpirit,</hi> ac<g ref="char:EOLhyphen"/>knowledge and confeſſe before the Lord the evill of your way, and inſtead of following man, and doing his works and commands, follow <hi>Chriſt the Lamb whether ſo ever he goeth,</hi> doing his works and commands, though in oppoſition to the <hi>powers of the Beaſt,</hi> for ſo it muſt be?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>3</label> Whether or no you can ſerve <hi>Chriſt the King of Zion,</hi> and men the <hi>Kings of Babylon</hi> both at a time? Can you have the <hi>mark of the Beaſt, and worſhip him</hi> and his <hi>Image;</hi> and at the time have the <hi>Fathers name written in your foreheads,</hi> ſtanding with <hi>Chriſt</hi> upon the <hi>Mount, ſinging unto him a new ſing of Zions praiſes? If not,</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>4</label> Whether or no you ought not to become an <hi>inquiſitive people,</hi> enquiring earneſtly by Faith for the true <hi>wayes and paths</hi> of the <hi>Lamb,</hi> that you might become part of his <hi>company and followers?</hi> Ought you not to <hi>run too and fro for increaſe of your knowledge, Dan.</hi> 12.4. that ſo you might have a <hi>lot</hi> in the <hi>Kingdom of Jeſus;</hi> that ſo ye may <hi>inherit all things and be the ſons of God, Rev.</hi> 21.7.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>5</label> Whether or no (if you take not this courſe) you will not be found in that miſerable condemned number of <hi>ſlaughter,</hi> who ſhall <hi>hide themſelves in the Dens and rocks of the moun<g ref="char:EOLhyphen"/>tains, calling for the mountains to fall on them (when alas th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir breaking to pieces) and hide them from the face of him that ſits on the throne?</hi> if in that number, what will become on you
+<pb n="5" facs="tcp:118006:3"/> when Chriſt ſits on the <hi>throne alone,</hi> and all men <hi>thrown down</hi> and laid in the duſt? <hi>who'l hide you from the wrath of the Lamb? Rev.</hi> 6.15, 16.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ground </seg>4</label> All thoſe that wilbe ſubjects of, and in the kingdom of the Beaſt, and <hi>trade within his domini<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns, whether they are ſmal or great, rich or poore, free or bond, muſt receive a mark in their right hands (more cloſe and private) or in their fo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eheads (openly and publike<g ref="char:EOLhyphen"/>ly, in the ſight of all men, as not being aſhamed of their profeſſed obedience to the B<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſt;) none being ſuffered to buy or ſell, ſave thoſe that receives this mark or the number of the Beaſts name, which number is the number of a man, and is</hi> 666. <hi>Rev.</hi> 13.15, 16, 17, 18.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>1</label> Whether or no you be prohibited trade under this Government of the Beaſt? Is there any lets or moleſtations offered unto you in your way by the Beaſt, or the Image of the Beaſt? Is there any breach of any of the Beaſts principall laws on your parts, by words or actions? If not. <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>2</label> Whether or no in the very higheſt degree you have not the mark of the Beaſt in y<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur foreheads, in an open ſhow? Is not your obedience publike to the view of all men; ſeeing you are freemen and no ſubjects in the dominion of Antichriſt? If ſo.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>3</label> Whether or no the Cup of the wrath of God will not be your portion? VVill not this ſcripture be fulfilled in you; <hi>If any man worſhip the Beaſt and his image, and receive his mark in his forehead or in his hand, the ſame ſhall drink of the wine of the wrath of God, which is powred out without mixture in to the cup of his Indignation, and he ſhalbe tormented with fire and brimſtone, in the preſence of the holy Angels, and in the preſence of the Lamb, and the ſmoak of their torment aſcends for ever and ever, and they have no reſt day nor night, that received the mark of the Beaſts name?</hi> Rev. 14 9, 10, 11. chap. 19.20, 21.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>4</label> Whether or no thoſe now impriſoned under the notion of Raylers, diſturbers, ſeducers, giddy headed, <hi>&amp;c.</hi> who are prohibited trade with the Beaſt, both in civils and ſpirituals, becauſe conſcientious of their upholding and maintaining any power of his; be not the Saints and people of God contending for Chriſt and his kingdome, againſt the Beaſt and his king<g ref="char:EOLhyphen"/>dome? are they not in this particular part of the VVitneſſes of <hi>Jeſus Chriſt,</hi> which the beaſt hath warred againſt and killed (ſo as to liberty and a publike teſtimony) having diſabled them from proceeding in the open bearing thereof? If ſo.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>5</label> Whether or no you will not be found at their Riſe and Aſcention (which will be in a ſhort time) among that rabble crue, upon whom great fear fals (their valour having left them) in regard of thoſe judgments that then will unavoidably come upon them; will you not be ſwallowed up in that great earthquake in and by which ſuch a perfect and compleat num<g ref="char:EOLhyphen"/>ber of the Antichriſtian party is devoured, <hi>Rev.</hi> 11.11.13.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>6</label> VVhether or no you do not, by retaining the mark of the Beaſt in your foreheads, put a ſtop to the work of the Lord in the world, as the Deſtruction of the Kings of the Earth, that wars with the Lamb, the overthrow of the Germain Empire, the fall and final overthrow of <hi>Rome,</hi> the conſummation of the Turkiſh power, and the preparation of the way of the Iews and Iſraelites to their own land? Do not you abſolutly ſtand in the way of this work by ſit<g ref="char:EOLhyphen"/>ting down and taking up your poſſeſſions here in <hi>Babilon,</hi> on this ſide <hi>Jordon:</hi> yea far before you come to <hi>Canaan,</hi> before you have a ſight of the good land? If ſo.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>7</label> Whether or no you ſhall not be trampled down, and run over, by the lyon of <hi>Judah</hi>'s Tribe, who is comming roaring for his prey, as mountains of oppoſition, in the way to his ta<g ref="char:EOLhyphen"/>k<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng poſſeſſion of the throns and kingdomes of the whole world, ſeeing he ſhall be as a <hi>Roe or young Hart</hi> (<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n ſwift motions) <hi>upon the mountains of Bether or diviſion, Cant.</hi> 2.17. that would divide between him and h<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s kingdome? If ſo.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>8</label> VVhether or no you ought not to conſult together, with the word of God, and conſider what might be the moſt ſpeedy and effectualleſt way for you to be found worthy of <hi>eſcaping ſo great puniſhments? O<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ght ye not to kiſſe the Son, leaſt he be angry and ye periſh and to fear God, and that becauſe th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> houre of his judgment is come, giving glory to him and not to man, that ſo you might rejoyce in his Highn<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſe.</hi> Pſal. 2.12. Iſa. 13.3. Rev. 14.7.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ground </seg>5</label> 30. <hi>January</hi> 1648. <hi>The Commons aſſembled in Parliament Ordered the Printing of an Act, which accordingly was printed, wherein was Enacted and Ordained
+<pb n="6" facs="tcp:118006:4" rendition="simple:additions"/> that no perſon or perſons whatſoever, do preſume to proclaim, declare, publiſh, or any wayes promote</hi> Charls Stuart (<hi>heretofore commonly called the Prince of</hi> VVales) <hi>or any other perſon to be King or cheif Magiſtrate of</hi> England, <hi>or of</hi> Ireland, <hi>or of any the Dominions belonging to them, or either of them without the free conſent of the People in Parliament, firſt had and ſignified, by a particular Act, or Ordinance for that purpoſe. It alſo was Enacted and Ordain<g ref="char:EOLhyphen"/>ed that whoſoever ſhould contrary to that Act, Proclaime, Declare, Publiſh, or any wayes pro<g ref="char:EOLhyphen"/>mote</hi> Charls Stuart <hi>the ſon, or any other perſon to the King, o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> chief Magiſtrate of</hi> England <hi>or of</hi> Ireland, <hi>&amp;c. ſhould be deemed and adjudged a Traitor to be Common-wealth, and ſuffer pains of death and ſuch other puniſhments as belong to the crime of High-treaſon. Authority alſo was given by that Act to all Officers as well Civill as Military, and <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o all other well-af<g ref="char:EOLhyphen"/>fected perſons to apprehend all ſuch offenders, that they might be proceeded againſt accordingly.</hi> Now this act was never repealed, nor made null or void, but ſtill remains in full force power, or vertue.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>1</label> VVhether or no thoſe <hi>perſons</hi> that did openly <hi>proclaim</hi> or gave adviſe or <hi>conſent to proclaim</hi> O. C. <hi>chief Magiſtrate of</hi> England, Scotland, <hi>and</hi> Ireland, <hi>and all the Dominions thereto belonging,</hi> be not guilty of <hi>high treaſon</hi> as conſpirers againſt the good of all the <hi>Peo<g ref="char:EOLhyphen"/>ple of this Nation,</hi> (except their partakers, upholders, abettors and adherents) and alſo as <hi>breakers of thoſe wholſome and good laws,</hi> made by the conſent of all the People of the three Nations met, and aſſembled together in their <hi>Repreſentatives,</hi> for their good and ſafety againſt <hi>Tyrants, Oppreſſors, proud <g ref="char:V">Ʋ</g>ſurpers, Crown-wearers, Parliament-breakers? &amp;c.</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>2</label> VVhether or no you (the whole Army) whom the <hi>People in Parliament</hi> raiſed for their own defence againſt the <hi>Invaders of their Liberties</hi> be not all <hi>traitors</hi> to the <hi>Nations,</hi> in regard you uphold and maintain by <hi>force and violence, thoſe that exalt themſelves in a tyrannizing way over the people,</hi> and in regard you have and do ſtill <hi>protect and defend him</hi> by the power of your ſword, thoſe that <hi>proclaimed,</hi> and thoſe that <hi>gave councel and adviſe <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n the very act, and have ever ſince ſtood by them keeping them from being apprehended by the well-affected people</hi> (ſeeing none elſe hath hearts ſo to do) <hi>according to law,</hi> to the end they might <hi>ſuffer the pains of death,</hi> deſerved by them for ſuch <hi>villanies?</hi> are not you (as it were) the legs of this Lyon, upon which he runs among the people, hunting for the <hi>prey,</hi> which he devours ſo greedily, and ſo furiouſly? If ſo. <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>3</label> VVhether or no it doth not behove the well-affected people of all the three <hi>Nations,</hi> or of any part thereof, to joyn and unite themſelves together, and ſo to <hi>ſtand up for their Liberties;</hi> ſeeing they are <hi>authorized, and required ſo to do by that act;</hi> ſo that they (in ſuch an enterprize) ſhall not only have the <hi>laws of God</hi> (which is ſtrongeſt of all) but alſo the <hi>laws of men</hi> on their ſide? Ought they not to <hi>appre<g ref="char:EOLhyphen"/>hend, and cauſe to be proceeded againſt, ſuch perſons as proclaimed O. Cromwel as aforeſaid, as traytors to them and the reſt of their brethren in the higheſt degree? Nay further</hi> (in caſe you the Army) ſhall yet defend thoſe known <hi>Rebels,</hi> and in caſe you yet continue as <hi>legs and ſupporters of the preſent Beaſt?</hi> Ought they not to proceed againſt you <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o <hi>ſuppreſſe you,</hi> ſee<g ref="char:EOLhyphen"/>ing you are turned to be their <hi>oppreſſors?</hi> Ought they not to <hi>cut off the legs of the Beaſt,</hi> and then pray what will become of the Beaſt?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ground </seg>6</label> VVhen the Army that was ſent by <hi>O Cromwell came to Hiſpaniola, they landed eight thouſand men, and in marching twenty miles many of them fell down dead, and the reſt when they came to engage, fled when none purſued. The Army of eight thouſand men did ne<g ref="char:EOLhyphen"/>ver ſee one hundred Spanyards in a body, and yet ſuch a ſpirit of fear poſſeſſed your fellows that they fled, and theſe few Spanyards purſued and killed them till they were a weary; The Lord did exceedingly appear againſt them ſuitable to that in</hi> Judges <hi>the</hi> 5. <hi>and</hi> 20. <hi>For on the</hi> 24th <hi>day of</hi> April <hi>at night the Moon being four dayes old did ſhine (an impoſſible thing accor<g ref="char:EOLhyphen"/>ding to reaſon) till two of the clock in the Morning, to their great admiration; For that night the Spaniard killed diverſe of your fellows</hi> (the Moon gave them light to do it.) Theſe paſſages are verified by Letters from the Fleet.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>1</label> Whether or no that great and unheard of <hi>ſpirit of fear</hi> among thoſe of your fel<g ref="char:EOLhyphen"/>lows, engaged in that <hi>deſigne</hi> (blaſted and curſed from heaven) which hath brought home
+<pb n="7" facs="tcp:118006:4" rendition="simple:additions"/> 
+               <hi>(inſtead of golden-wedges, and pretious things of the Earth)</hi> ſo many and great <hi>wedges of diſgrace to every Engl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſh ſouldier;</hi> Whether this was not on purpoſe to <hi>forwarn</hi> you of grea<g ref="char:EOLhyphen"/>ter <hi>miſcheif and deſtruction to come upon you,</hi> for your <hi>mercenary behaviours,</hi> among your <hi>Bretheren at home?</hi> Did not the Lord give this as a <hi>warning</hi> to you, and ought it not ſo to be taken? Doth he not ſpeak to you with <hi>a <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d and mighty voyce by his Judgments from hea<g ref="char:EOLhyphen"/>ven?</hi> If ſo. <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>2</label> Whether or now you ought not with a willing and thankfull minde <hi>harken to his voyce,</hi> and according to the will of the Lord therein not be found <hi>acting or imployed in any ſuch, the like, or the ſame deſigne afreſh?</hi> Ought you to be hurried as a company of <hi>Dumbe, and ignorant ſheepe to the ſlaughter?</hi> Ought you not rather to be found acting in ſome more <hi>noble, and good deſigne,</hi> wherein you may finde the <hi>preſence of the Lord</hi> (as here<g ref="char:EOLhyphen"/>tofore you uſed to doe) which may make your <hi>Enemies fly and tremble before you,</hi> as you, or ſome of yours have done; <hi>Two Thouſands</hi> (or neareupon) of whome hath loſt their <hi>lives by ſword, and ſicknes as a plague?</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>3</label> Whether or now <hi>O. C. bee not guilty of all</hi> this <hi>Blood of your Bretheren</hi> ſhed by his meanes beyond the ſeas in the late <hi>undertaking</hi> ſeeing hee drove them into the <hi>Net of the Fowler,</hi> and into the <hi>ſnare of the hunter?</hi> The <hi>Scribes and Phariſes was gui<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ty of all the Bloodſheed from Abell to their dayes,</hi> though not actually <hi>ſpilt by them;</hi> Is not <hi>O. C. guilty therefore of all this Bloodſhed by his means and deviſes to the diſhonor of Engliſhmen?</hi> If ſo. <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>4</label> Whether or no you or any the good and <hi>well-affected people of the Nation</hi> have not ſufficient <hi>call and warranty,</hi> by the <hi>Laws of God and men</hi> to proceed againſt him as a <hi>murderer</hi> and accompt him no otherwiſe; <hi>Leaſt you partaking with him in his ſins, partake with him in his plagues, and puniſhments alſo;</hi> For it is lawfull for you to defend a <hi>Murderer?</hi> If you think it is, defend him? till you and he be <hi>ſwallowed up with Gods vengance,</hi> when you would give all the <hi>gold</hi> (if you had it) that <hi>Hiſpaniola and the Indi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>'s <hi>afford</hi> for a little of your vain paſt-time to repent? Therefore Oh <hi>Army re<g ref="char:EOLhyphen"/>member from whence thou art faln, and repent, or I come quickly,</hi> ſaith <hi>Chriſt, the onely law<g ref="char:EOLhyphen"/>full King and Protector,</hi> Rev. 2.5. which comming will be with <hi>fire to Apoſtates.</hi>
+            </p>
+            <div type="conclusion">
+               <head>CONCL<g ref="char:V">Ʋ</g>SION,</head>
+               <l>The Dreadfull King, the mighty God of VVonder,</l>
+               <l>Againſt Apoſtates doth begin to Thunder.</l>
+               <l>He hath ſet open his great Armoury,</l>
+               <l>The hoſt of <hi>Cromwell</hi> ſhall before him fly.</l>
+               <l>Great multitudes of ſlain there will be ſound.</l>
+               <l>They'l all fall down at heavens angry found.</l>
+            </div>
+         </div>
+         <div type="text">
+            <head>Some Queries offered to the view and ſerious conſideration of the ANABAPTISTS.</head>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ground </seg>1</label> The <hi>principles of Religion,</hi> and the <hi>principles of an Antichriſtian Court,</hi> are incon<g ref="char:EOLhyphen"/>ſiſtent the one with the other, for the perſons that is commonly imployed (their offices being <hi>helliſh, vain, and wicked,</hi>) in ſuch Courts are either <hi>looſe, idle and prophane, or elſe cunning and hipocriticall and full of diſſimulation,</hi> in which regard they are moſt fit for the deſignes of their Maſters: for a man that is conſcientious, that makes any conſcience of his ways wilbe <hi>checked by his conſcience,</hi> and conſcience will at one time or other utter <hi>it ſelf:</hi> Such perſons therefore are unfit for <hi>Courtiers,</hi> and tis well they are ſo: This makes the <hi>preſent Court to ſwarm</hi> ſo thick with <hi>Cavaleers, wicked, ungodly, vain, profane men,</hi> and alſo with <hi>Hypocrites, Polliticians, &amp;c.</hi> and ſo little with honeſt, godly, conſcientious men.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>1</label> VVhether or no it be not dishonourable, and a great deal below that great and <hi>ſtrict profeſſion,</hi> which you make of the <hi>name, way,</hi> and <hi>cauſe of Chriſt;</hi> and a diſhonour to to the name of God, for you to hold any <hi>Place, Office, or imployment in, or belonging to the preſent Court?</hi>
+            </p>
+            <pb n="8" facs="tcp:118006:5" rendition="simple:additions"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>2</label> VVhether or no <hi>O. C.</hi> with the reſt of his <hi>vain &amp; politick courtiers</hi> (according to their prin<g ref="char:EOLhyphen"/>ciples before named) doe not ayme and deſigne (when they ſhall think themſelves, more faſt and ſecure, in their ſeates) to reject and caſt you out from your preſent <hi>offices and imploy<g ref="char:EOLhyphen"/>ments of Court-honor and profit,</hi> with and among them? If ſo.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>3</label> VVhether their maine end and <hi>Deſigne</hi> (in retaining you at preſent) be not <hi>ſelfiſh, and baſe,</hi> with you, to ſerve their owne <hi>ends and pu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>poſes,</hi> and then to caſt you of like fooles, thinking by their retaining you at preſent, to <hi>cloake and cover their deſignes,</hi> and to breed thereby good opinions of themſelves in the <hi>Churches,</hi> and among your other <hi>Freinds,</hi> knowing that you are a people that (if your eyes be open) will not ſuſter the wrack and loſſe of your lawful and r<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ghtfull priviledges, had you not therefore better withdraw now with honor and ſome credit, then hereafter be turned out with diſhonor and diſgrace?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ground </seg>2</label> As <hi>Principles of Religion</hi> are in conſiſtent with <hi>Principles of Court;</hi> ſo are they with tho <hi>Army,</hi> whoſe ſtanding is of, from, and by the Court: this appears 1. by that diſcourſe (if true) which <hi>O. Cromwell</hi> had with a Scotch Lord, one <hi>Twidle;</hi> where you are brought in as in-lets to the deſigns of our new Courtiers, as appeares by thoſe <hi>Queries</hi> writ by a well-wiſher to the <hi>Anabaptiſts</hi> proſperity, <hi>&amp;c.</hi> 2. It appears by that ſpirit of inveterateneſs, and maliciouſnes in the Army againſt the <hi>Anabaptiſts,</hi> for proof whereof, take the paſſage of a Letter from Hiſpaniola. <hi>Some of theſe wretches</hi> ſaith the Author, meaning the remaining feeble men of the Army ſent thither, who ſeeing the hand of God viſibly againſt them, was thereby enraged) <hi>are extreamly mad againſt the Lord and his poore people, that they have ſworn, that if they knew there were an Anabaptiſt, they would bo the death of him, &amp;c.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>1</label> VVhether or no you in your preſent eſtate be not in apparent hazard of your lives and eſtates, lyable to the malice of the wicked and prophane ſouldiers of this Court, if ever you light into their Power: where hatred lodgeth, malice reſteth, and will break forth when ſhe can poſſible? If ſo.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quer. </seg>2</label> VVhether or no (in the name and preſence of the Lord, we put this queſtion) you ought not to withdraw from, and have nothing to do with the preſent Court, and alſo the Army, and return and ſeek the face of the Lord, and repent, and do your firſt works, <hi>Rev.</hi> 2.5. That ſo you (returning) might diſcern between the righteous and the wicked, be<g ref="char:EOLhyphen"/>tween him that ſerveth God and him that ſerveth him not, <hi>Mal.</hi> 2.18. that ſo you might perceive their evill wayes and eſchew them?</p>
+            <div type="conclusion">
+               <head>Concluſion.</head>
+               <p>
+                  <hi>We deſire you for Chriſts ſake to turn to theſe Scriptures, and ſeri<g ref="char:EOLhyphen"/>ouſly and ſolemnly conſider, and meditate upon them, ſeeking the face of the Lord in that work, for wiſdome and underſtanding there<g ref="char:EOLhyphen"/>in:</hi> Rev. 18.4. 2 Cor. 6.17. Jer. 51.6.45. chap. 50.8. Iſa. 52.11. Numb. 16.21. Gen. 19.15.22. Exo. 33.16. Iſa. 48.20. &amp;c. <hi>The Lord teach you his mind in theſe, and take you up into the Mount, and there reveal unto you the</hi> Salvation and Redemption of whole Zion, and the Deſtruction and Overthrow of Babylon now near approaching, even at the doore.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
